@@ -227,6 +227,4 @@ This project is created for educational and academic purposes.
 
 ---
 
-## ⭐ Repository Link
 
-https://github.com/iuy-z/devops-cicd-pipeline

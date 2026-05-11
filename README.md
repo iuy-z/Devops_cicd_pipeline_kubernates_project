@@ -197,8 +197,8 @@ After this, Jenkins successfully deployed the application.
 ## 🚀 Clone This Repository
 
 ```bash
-git clone https://github.com/iuy-z/devops-cicd-pipeline.git
-cd devops-cicd-pipeline
+git clone https://github.com/iuy-z/Devops_cicd_pipeline_kubernates_project.git
+cd Devops_cicd_pipeline_kubernates_project
 ```
 
 ---
